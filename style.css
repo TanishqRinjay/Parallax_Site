@@ -58,14 +58,13 @@ section {
   background-position: center;
 }
 .bg1 {
-  background-image: url(./images/sport-1.jpg);
-  /* filter: grayscale(100%); */
+  background-image: url(https://drive.google.com/uc?export=view&id=1rwybcg1nxuL83OT-veTJDAJljqDgSFTL);
 }
 .bg2 {
-  background-image: url(./images/sport-2.jpg);
+  background-image: url(https://drive.google.com/uc?export=view&id=1LYeqCmDNI-RaYvqnWbF0r5C6kkGuanVN);
 }
 .bg3 {
-  background-image: url(./images/sport-3.jpg);
+  background-image: url(https://drive.google.com/uc?export=view&id=1yw_0rCiD71cSFXHmJsKWceBA8VEriCbr);
 }
 .desc {
   color: black;
